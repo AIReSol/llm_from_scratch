@@ -1,6 +1,8 @@
 # Develop LLM from scratch
 
-
+# Project structure
+`tests/`: test files
+`tokenizers/`: implementation of tokenizers 
 
 # Components 
 - Tokenizers
